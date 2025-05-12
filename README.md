@@ -1,6 +1,7 @@
 # Cheating-Detection-with-Jetson-Nano
 
 # Exam Cheating Detection System on Jetson Nano
+Visit the project on [Cheating]([https://github.com/yourusername/cheating-detection-nano](https://drive.google.com/file/d/1X7EtB3rxlj68vcwP_OnPwhwmUAUtWurq/view?usp=sharing))
 
 ## 📌 Introduction
 
