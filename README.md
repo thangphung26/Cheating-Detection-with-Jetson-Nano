@@ -44,7 +44,7 @@ This project is a real-time exam cheating detection system running entirely on a
 - Insert SD card into Jetson Nano and boot up
 
 ### 2. Setup Environment
-install [`trt_pose`](https://github.com/NVIDIA-AI-IOT/trt_pose) for real-time pose estimation
-install numpy,xgboost,pytorch,cuda,torchvision,...
+- install [`trt_pose`](https://github.com/NVIDIA-AI-IOT/trt_pose) for real-time pose estimation
+- install numpy,xgboost,pytorch,cuda,torchvision,...
 ### 3. Clone Project
 
