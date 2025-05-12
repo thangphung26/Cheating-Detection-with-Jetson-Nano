@@ -1,1 +1,0 @@
-cài torch2trt phai "git log" de kiem tra phiên ban và dùng "git checkout" 
